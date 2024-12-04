@@ -2,7 +2,7 @@
 
 >git status [to list]
 
->git add -A
+>git add -A [to add]
 
 >git commit -m "commit message"
 
@@ -11,3 +11,9 @@
 >git pull
 
 >git push
+
+>git config --list [to list configuration]
+
+>git config --global user.name "username" [to add username]
+
+>git config --global user.email "useremail"[to add useremail]
