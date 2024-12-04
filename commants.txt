@@ -3,3 +3,11 @@
 >git status [to list]
 
 >git add -A
+
+>git commit -m "commit message"
+
+>git clone
+
+>git pull
+
+>git push
