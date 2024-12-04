@@ -1,0 +1,5 @@
+>git init [to initial]
+
+>git status [to list]
+
+>git add -A
